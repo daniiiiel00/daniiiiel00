@@ -5,21 +5,27 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-melese-897a4b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-melese-897a4b339/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/ttps://www.instagram.com/dan_iiiiiiiiiiiiiiiel?igsh=em1vZTcxaTdhZXVr" target="_blank">
+  <a href="https://www.instagram.com/dan_iiiiiiiiiiiiiiiel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://t.me/Andro_medaaaaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://x.com/https://x.com/Dani12246Daniel?t=Gt-jAuhL6p2kbyRuODNYAA&s=09" target="_blank">
+  <a href="https://x.com/Dani12246Daniel?t=VM3qZwck6JQVfIAWsw4tqQ&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="mailto:danielmelese240@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=daniiiiel00.daniiiiel00&"  />
 </div>
 
 ###
@@ -32,7 +38,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m interested in programming <br>- 📚 I'm currently graduated collage program <br>- ⚡ I’m looking to collaborate on projects</p>
+<p align="left">I'm Full stack Web Developer from Ethiopia<br><br>- 🔭 I’m interested in programming <br>- 📚 I'm currently graduated collage program <br>- ⚡ I’m looking to collaborate on projects</p>
 
 ###
 
@@ -87,5 +93,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=daniiiiel00&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
