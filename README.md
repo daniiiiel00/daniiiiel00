@@ -1,6 +1,6 @@
 
 <h1 align="center">YO 👋, I'm Daniel Melese</h1>
-<h3 align="center"> full stack developer from Ethiopia Adiss Abeba</h3>
+<h3 align="center"> full stack developer from Ethiopia Addis Ababa</h3>
 
 ## 💫 About Me:
 - 👋 Hi, I’m @daniiiiel00
