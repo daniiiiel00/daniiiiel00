@@ -34,11 +34,7 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Full stack Web Developer from Ethiopia<br><br>- </p>
+<p align="left">🚀 Dedicated and passionate Web Developer and Database Administrator with a strong background in creating responsive and secure web applications. Skilled in front-end and back-end technologies, database design, and API integration. Proven experience through multiple real-world projects, with a strong record of innovation and achievement.</p>
 
 ###
 
@@ -101,6 +97,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniiiiel00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 ###
 
 <picture>
