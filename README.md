@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Full stack Web Developer from Ethiopia<br><br>- 🔭 I’m interested in programming <br>- 📚 I'm currently graduated collage program <br>- ⚡ I’m looking to collaborate on projects</p>
+<p align="left">I'm Full stack Web Developer from Ethiopia<br><br>- </p>
 
 ###
 
