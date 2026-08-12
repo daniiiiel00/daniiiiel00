@@ -73,10 +73,12 @@
 <div align="center">
   
 # Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
-
+<!--
 | Stats | Top Languages | Streak |
 | :---: | :-----------: | :----: |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniiiiel00&show_icons=true&theme=radical&count_private=true&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiel00&layout=compact&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniiiiel00&theme=radical) |
+
+-->
 
 </div>
 
